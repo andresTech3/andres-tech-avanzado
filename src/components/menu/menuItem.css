@@ -1,0 +1,25 @@
+.crz-tech{
+    color:#fff;
+    font-size:1.5em;
+    margin-right:3px;
+}
+
+.crz-tech:hover{
+    color:#08fdd8;
+}
+
+.linkUrl{
+    text-decoration: none;
+    color:#fff;
+    display: flex;
+}
+
+.menuItemLink{
+    text-decoration : none;
+    color:#aaa;
+}
+
+.menuItemLink:hover{
+    color:#000;
+    transition:0.4s ;
+}
