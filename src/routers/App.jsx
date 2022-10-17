@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { BrowserRouter,Routes,Route} from 'react-router-dom'
 import Menu from '../components/menu/Menu';
 
-import './App.css'
+import '../styles/App.css'
 
 function App() {
   return (

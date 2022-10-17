@@ -24,7 +24,7 @@ function Menu() {
               <NavbarWrapper>
               <LinkUrl>
                   <IconLogo>
-                        <Link className="linkUrl" to = "/andres-tech/">
+                        <Link className="linkUrl" to = "/andres-tech-avanzado/">
                             <FaHeart className="crz-tech"/> AndresTech
                         </Link>
                   </IconLogo>
